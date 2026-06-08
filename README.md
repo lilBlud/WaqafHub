@@ -1,7 +1,10 @@
 # WaqafHub Security Hardening Report
 
-**Student Name:** [Your Name]
-**Matric Number:** [Your Matric Number]
+| NAME | MATRIC NO. |
+| :--- | :--- |
+| AHMAD AZIB DANISH BIN AHMAD SANUSI | 2222225 |
+| WAN AHMED FAUZIZAFRY BIN WAN KHALID | 2221141 |
+| ZUL IRFAN SYAMAIZAR BIN ZUL MAJDI SYAMAIZAR | 2220099 |
 **Web App Title:** WaqafHub (IIUM Waqaf)
 
 ---
