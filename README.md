@@ -1,10 +1,11 @@
-# WaqafHub Security Hardening Report
+# Project Report INFO 4345
 
 | NAME | MATRIC NO. |
 | :--- | :--- |
 | AHMAD AZIB DANISH BIN AHMAD SANUSI | 2222225 |
 | WAN AHMED FAUZIZAFRY BIN WAN KHALID | 2221141 |
 | ZUL IRFAN SYAMAIZAR BIN ZUL MAJDI SYAMAIZAR | 2220099 |
+
 **Web App Title:** WaqafHub (IIUM Waqaf)
 
 ---
